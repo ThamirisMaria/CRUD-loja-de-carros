@@ -32,3 +32,16 @@
   <img src="https://user-images.githubusercontent.com/73439911/176584329-56924e91-e560-4c8e-921d-c0eabd6b481e.svg" alt="mysql" height="50" width="50"/>&nbsp;
 </div>
 
+## Possíveis melhorias:
+
+### Segurança
+
+* Criar função de cadastro e login de usuários, com opções de cargos de administrador do sistema ou visitante.
+* Validar informações ao editar ou criar novo carro.
+
+### Interface
+
+* Fixar header da página de consulta assim como as headers da sua tabela ao <i>scrollar</i> a página.
+* Highlight no botão de menu da página atual.
+* Fixar rodapé.
+  
