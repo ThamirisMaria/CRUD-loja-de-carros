@@ -8,7 +8,7 @@
   
 ### Operações de CRUD:
 
-  #### https://github.com/ThamirisMaria/CRUD-loja-de-carros/blob/main/consultar.php
+  #### CREATE
   <p>Ao entrar no sistema, a página de consulta é aberta exibindo todos os carros armazenados em estoque, com seus devidos atributos:</p>
   
   <div align="center"><img src="https://user-images.githubusercontent.com/73439911/177045598-943d237e-0d91-4de2-ba91-e566ef3fdb00.gif" alt="Página de consulta" align="center"/></div>
@@ -18,6 +18,8 @@
   #### UPDATE
   <p>Clicando no botão de ediçãoo, a página de edição é aberta e o usuário pode editar o conteúdo dos atributos do carro respectivo:</p>
   
+  <div align="center"><img src="https://user-images.githubusercontent.com/73439911/177048676-46ac4b42-51ed-4640-92a6-ed983ecc51d1.gif" alt="Página de consulta" align="center"/></div>
+
   <p>Ao clicar no botão "editar", as alterações são salvas no banco de dados e o usuário é redirecionado de volta para a página de consulta, que já exibirá as informações atualizadas.</p>
 
 ## Tecnologias Utilizadas:
