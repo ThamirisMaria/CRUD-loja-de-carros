@@ -1,11 +1,20 @@
-# CRUD-loja-de-carros! <img src="https://user-images.githubusercontent.com/73439911/177026529-54acb166-f52e-4b60-96d2-6414be382194.png" alt="Logomarca do sistema: CarToday" height="120" width="300" align="center"/>
+# CRUD-loja-de-carros! <img src="https://user-images.githubusercontent.com/73439911/177043950-1fdf206e-1cff-461f-ade4-0efdd7b6f6c7.png" alt="Logomarca do sistema: CarToday" title="Logomarca/nome do sistema: CarToday" height="60" width="240" align="right"/>
 
-### Sobre:
+## Sobre:
 
-<p>Sistema de gerenciamento de estoque de carros com operações de <strong>CRUD</strong> e <strong>geração de relatórios</strong>, estilizado com o framework de CSS, Materialize.<p> 
-<img src="https://user-images.githubusercontent.com/73439911/177041841-639b20ed-6c4a-4119-b188-2aa76e903b43.gif" alt="CarToday system's Home Page" title="Home Page do sistema.">
+<p>Sistema de gerenciamento de estoque de carros com operações de <strong>CRUD</strong> e <strong>geração de relatórios</strong>, estilizado com o framework de CSS, Materialize.<p>
+  
+<div align="center"><img src="https://user-images.githubusercontent.com/73439911/177041841-639b20ed-6c4a-4119-b188-2aa76e903b43.gif" alt="Home Page do sistema"/></div>
+  
+### Operações de CRUD:
+  #### READ
+  <p>Ao entrar no sistema, a página de consulta é aberta exibindo todos os carros armazenados em estoque, com seus devidos atributos:</p>
+  
+  <div align="center"><img src="https://user-images.githubusercontent.com/73439911/177045598-943d237e-0d91-4de2-ba91-e566ef3fdb00.gif" alt="Página de consulta" align="center"/></div>
 
-### Tecnologias Utilizadas:
+  <p>Também são exibidos,ao lado de cada carro, botões de edição e exclusão.</p>  
+
+## Tecnologias Utilizadas:
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73439911/176926256-a90c72af-21ab-45a2-86c9-5c1028fdd482.svg" alt="php" height="50" width="50"/>&nbsp;
