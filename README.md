@@ -1,4 +1,4 @@
-# CRUD-loja-de-carros
+# CRUD-loja-de-carros! <img src="https://user-images.githubusercontent.com/73439911/177026529-54acb166-f52e-4b60-96d2-6414be382194.png" alt="Logomarca do sistema: CarToday" height="100" width="300" align="right"/>
 
 ### Sobre:
 
