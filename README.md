@@ -1,5 +1,18 @@
 # CRUD-loja-de-carros! <img src="https://user-images.githubusercontent.com/73439911/177043950-1fdf206e-1cff-461f-ade4-0efdd7b6f6c7.png" alt="Logomarca do sistema: CarToday" title="Logomarca/nome do sistema: CarToday" height="60" width="240" align="right"/>
 
+### Table of Contents
+**[Sobre](#sobre)**<br>
+  *[Operações de CRUD](#operações-de-crud)*<br>
+    *[-- CREATE](#create)*<br>
+    *[-- READ](#read)*<br>
+    *[-- UPDATE](#update)*<br>
+    *[-- DELETE](#delete)*<br>
+**[Tecnologias Utilizadas](#tecnologias-utilizadas)**<br>
+**[Possíveis Melhorias](#possíveis-melhorias)**<br>
+    *[Funcionalidade](#funcionalidade)*<br>
+    *[Segurança](#segurança)*<br>
+    *[Interface](#interface)*<br>
+
 ## Sobre:
 
 <p>Sistema de gerenciamento de estoque de carros com operações de <strong>CRUD</strong> e <strong>geração de relatórios</strong>, estilizado com o framework de CSS, Materialize.<p>
