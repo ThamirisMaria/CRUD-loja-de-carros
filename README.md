@@ -8,19 +8,26 @@
   
 ### Operações de CRUD:
 
-  #### CREATE
+  #### [READ](consultar.php "Código da operação")
   <p>Ao entrar no sistema, a página de consulta é aberta exibindo todos os carros armazenados em estoque, com seus devidos atributos:</p>
   
-  <div align="center"><img src="https://user-images.githubusercontent.com/73439911/177045598-943d237e-0d91-4de2-ba91-e566ef3fdb00.gif" alt="Página de consulta" align="center"/></div>
+  <div align="center"><img src="https://user-images.githubusercontent.com/73439911/177045598-943d237e-0d91-4de2-ba91-e566ef3fdb00.gif" alt="Página de consulta"/></div>
 
   <p>Também são exibidos,ao lado de cada carro, botões de edição e exclusão.</p>  
   
-  #### UPDATE
-  <p>Clicando no botão de ediçãoo, a página de edição é aberta e o usuário pode editar o conteúdo dos atributos do carro respectivo:</p>
+  #### [UPDATE](./php_action/update.php "Código da operação")
+  <p>Clicando no botão de edição, a página de edição é aberta e o usuário pode editar o conteúdo dos atributos do carro respectivo:</p>
   
-  <div align="center"><img src="https://user-images.githubusercontent.com/73439911/177048676-46ac4b42-51ed-4640-92a6-ed983ecc51d1.gif" alt="Página de consulta" align="center"/></div>
+  <div align="center"><img src="https://user-images.githubusercontent.com/73439911/177048676-46ac4b42-51ed-4640-92a6-ed983ecc51d1.gif" alt="Página de consulta"/></div>
 
   <p>Ao clicar no botão "editar", as alterações são salvas no banco de dados e o usuário é redirecionado de volta para a página de consulta, que já exibirá as informações atualizadas.</p>
+  
+  #### [DELETE](./php_action/delete.php "Código da operação")
+  <p>Clicando no botão de exclusão, um modal com a descrição do carro respectivo aparece perguntando ao usuário se ele realmente deseja realizar esta operação:</p>
+  
+  <div align="center"><img src="https://user-images.githubusercontent.com/73439911/177173071-40454e85-4622-4b44-be54-dd4e1d4b744f.gif" alt="Modal da operação delete"/></div>
+  
+  <p>Assim que o botão "Sim, excluir" é clicado, o carro é excluido do banco de dados e a página de consulta é atualizada, caso contrário o modal apenas se fecha.</p>
 
 ## Tecnologias Utilizadas:
 
@@ -33,6 +40,10 @@
 </div>
 
 ## Possíveis melhorias:
+
+### Funcionalidade
+
+* Criar a função de pesquisar e filtrar carros específicos.
 
 ### Segurança
 
