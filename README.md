@@ -8,7 +8,7 @@
     *[-- UPDATE](#update)*<br>
     *[-- DELETE](#delete)*<br>
 **[Tecnologias Utilizadas](#tecnologias-utilizadas)**<br>
-**[Como Testar e/ou Contribuir](Pré-requisitos)**<br>
+**[Como Testar e/ou Contribuir](#pré-requisitos)**<br>
 **[Possíveis Melhorias](#possíveis-melhorias)**<br>
 
 ## Sobre:
